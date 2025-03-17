@@ -1,0 +1,50 @@
+# Contributing to ForzaLab
+
+Thank you for your interest in contributing to **ForzaLab**! 🚀
+We welcome contributions from the community to improve and enhance this project.
+
+## 🛠 How to Contribute
+### 1️⃣ Fork the Repository
+Click on the **Fork** button in the top right corner of this repository to create your own copy.
+
+### 2️⃣ Clone the Repository
+```sh
+git clone https://github.com/your-username/forzalab-image-gallery.git
+cd forzalab-image-gallery
+```
+
+### 3️⃣ Create a New Branch
+```sh
+git checkout -b feature-name
+```
+
+### 4️⃣ Make Your Changes
+- Add your features, fix bugs, or improve documentation.
+- Follow best coding practices and maintain clean, readable code.
+
+### 5️⃣ Commit and Push Changes
+```sh
+git add .
+git commit -m "Added new feature"
+git push origin feature-name
+```
+
+### 6️⃣ Create a Pull Request (PR)
+- Go to your forked repository on GitHub.
+- Click **New Pull Request**.
+- Select the base branch as `main` and compare with your branch.
+- Add a clear title and description.
+- Click **Create Pull Request**.
+
+---
+
+## 💡 Contribution Guidelines
+- Follow the existing code structure and styling.
+- Use meaningful commit messages.
+- Test your changes before submitting.
+- Keep PRs focused on a single feature or fix.
+
+---
+
+Thank you for contributing! 🎉🚀
+
