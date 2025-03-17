@@ -15,6 +15,16 @@ app.get("/", (req, res) => {
 });
 
 
+
+
+app.get("/contribute", (req, res) => {
+    res.sendFile(path.join(__dirname, "src","contribute", "index.html"));
+});
+
+
+
+
+
 // Route to get all images in uploads/images
 app.get("/api/images", (req, res) => {
     const imagesDir = path.join(__dirname, "src", "uploads", "images"); // Corrected path
