@@ -15,7 +15,7 @@ ForzaLab is a simple **Node.js & Express** web app that dynamically displays ima
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-repo/forzalab-image-gallery.git
+git clone https://github.com/vishnu1100/ForzaLab.git
 cd forzalab-image-gallery
 ```
 
