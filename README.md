@@ -68,7 +68,7 @@ This project is **open-source**. Feel free to use and modify it.
 ---
 
 ## 🎯 Author
-[Your Name] - Developer & Maintainer
+Vishnu Santhosh - Developer & Maintainer
 
 Happy Coding! 🚀
 
